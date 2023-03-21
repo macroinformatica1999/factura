@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\bin\Debug\facturacion.exe.config
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\bin\Debug\facturacion.exe
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\bin\Debug\facturacion.pdb
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.Form1.resources
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.Properties.Resources.resources
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.exe
+C:\Users\USUARIO\Source\Repos\facturacion\facturacion\obj\Debug\facturacion.pdb
